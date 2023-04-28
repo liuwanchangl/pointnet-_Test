@@ -1,0 +1,29 @@
+2023-04-22 12:20:25,962 - Model - INFO - PARAMETER ...
+2023-04-22 12:20:25,962 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=False, num_point=2048, num_votes=3)
+2023-04-22 12:23:20,797 - Model - INFO - PARAMETER ...
+2023-04-22 12:23:20,797 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2023-04-22 12:23:20,830 - Model - INFO - The number of test data is: 2874
+2023-04-22 12:24:55,978 - Model - INFO - PARAMETER ...
+2023-04-22 12:24:55,978 - Model - INFO - Namespace(batch_size=24, gpu='0', log_dir='pointnet2_part_seg_msg', normal=True, num_point=2048, num_votes=3)
+2023-04-22 12:24:56,013 - Model - INFO - The number of test data is: 2874
+2023-04-22 12:25:40,739 - Model - INFO - eval mIoU of Airplane       0.830758
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Airplane       0.832154
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Bag            0.820408
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Cap            0.855859
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Car            0.787262
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Chair          0.908305
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Earphone       0.734092
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Guitar         0.911515
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Knife          0.877458
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Lamp           0.842924
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Laptop         0.955123
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Motorbike      0.728591
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Mug            0.942149
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Pistol         0.827163
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Rocket         0.607285
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Skateboard     0.754546
+2023-04-22 12:27:17,037 - Model - INFO - eval mIoU of Table          0.830656
+2023-04-22 12:27:17,038 - Model - INFO - Accuracy is: 0.94431
+2023-04-22 12:27:17,038 - Model - INFO - Class avg accuracy is: 0.87422
+2023-04-22 12:27:17,038 - Model - INFO - Class avg mIOU is: 0.82597
+2023-04-22 12:27:17,038 - Model - INFO - Inctance avg mIOU is: 0.85549
